@@ -1,5 +1,5 @@
 # -Junior-JavaScript-Developer-West-London-1708-
-JavaScript, ES6, ReactJS, Heroku, Mobx or Redux
+£35000 - £45000
 # Stack: 
 JavaScript, ES6, ReactJS, Heroku, Mobx or Redux
 
