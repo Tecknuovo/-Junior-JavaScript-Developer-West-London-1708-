@@ -4,13 +4,14 @@ JavaScript, ES6, ReactJS, Heroku, Mobx or Redux
 JavaScript, ES6, ReactJS, Heroku, Mobx or Redux
 
 # The company: 
-Start up company funded by one the of the UK’s most successful venture capital firms. The companies App which helps researchers from both academic and commercial settings easily discover and curate new papers or research within their field of interest. Established in 2017 they have seen incredible user growth and retention and are currently closing in on 500 000 users. 
+Start up company funded by one the of the UK’s most successful venture capital firms. The company’s App helps researchers from both academic and commercial settings easily discover and curate new papers or research within their field of interest. Established in 2017 they have seen incredible user growth and retention and are currently closing in on 500 000 users. 
+ 
 
 # The environment/Culture: 
-Hosted in a tech incubator in West London they have small technical with skills split between backend (Swift), Mobile (Native Android and iOS), Data (Python) and Front End (JavaScript with React). They have a relaxed and collaborative approach to development and some super smart people to learn from. 
+Hosted in a tech incubator in West London they have small technical team with skills split between backend (Swift), Mobile (Native Android and iOS), Data (Python) and Front End (JavaScript with React). They have a relaxed and collaborative approach to development and some super smart people to learn from. 
 
 # The role: 
-The position is for a Front-end developer who will ultimately have complete responsibility for the look and feel of their desk top applications. Most of their user base use the mobile application to book mark new papers but access the site through the desktop to read them and make notes. You will love if you are someone who likes complete ownership of what you deliver and are an excellent self-learner. You will probably find this position less suitable if you are looking to work in a larger front-end team.  
+The position is for a Front-end developer who will ultimately have complete responsibility for the look and feel of their desktop applications. Most of their user base use the mobile application to book mark new papers but access the site through the desktop to read them and make notes. You will love this role if you are someone who likes complete ownership of what you deliver and are an excellent self-learner. You will probably find this position less suitable if you are looking to work in a larger front-end team.  
 
 # Project examples: 
 
